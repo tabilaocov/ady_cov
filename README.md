@@ -1,4 +1,4 @@
-# Tabilao ankapobeny sy modely vitsivitsy ijerena ny fivoaran'ny Covid-19 ao Madagasikara
+# Tabilao ankapobeny sy modely ijerena ny fivoaran'ny Covid-19 ao Madagasikara
 
 ### Vokatra an-tsary
 
