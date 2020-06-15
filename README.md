@@ -1,6 +1,6 @@
 # Tabilao ankapobeny sy modely ijerena ny fivoaran'ny Covid-19 ao Madagasikara
 
-### Vokatra an-tsary
+### Fanadihadiana an-tsary
 
 Tombana hoan'ny 10 andro farany ao Antananarivo.
 
