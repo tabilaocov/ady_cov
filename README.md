@@ -14,7 +14,7 @@ Vinavina ambany hoan'ny isan'ny voa vaovao ao Antananarivo.
 
 <img src="sary/Ivba126hoav_anta.png" width="600">
 
-Vinavina ambony hoan'ny isan'ny voa vaoaao ao Antananarivo.
+Vinavina ambony hoan'ny isan'ny voa vaovao ao Antananarivo.
 
 <img src="sary/Ivbo126hoav_anta.png" width="600">
 
