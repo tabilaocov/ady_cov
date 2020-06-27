@@ -36,4 +36,4 @@ Vinavina hoan'ny isan'ny voa vaovao ao Antananarivo.
 
 Vinavina hoan'ny isan'ny voa vaovao ao Toamasina.
 
-<img src="sary/Iv2666hoav_toam.png" width="400">
+<img src="sary/Iv266hoav_toam.png" width="400">
