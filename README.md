@@ -6,11 +6,11 @@ Antontanin'isa ao Madagasikara
 <img src="sary/tahasitrzao.png" width="600">
 <img src="sary/voavaozao.png" width="600">
 
-Ao Antananarivo
+Ao Antananarivo (ny isa hoan'ny 26/06 dia tombana)
 
 <img src="sary/voavaotanazao.png" width="600">
 
-Ao Toamasina
+Ao Toamasina (ny isa hoan'ny 26/06 dia tombana)
 
 <img src="sary/voavaotoazao.png" width="600">
 
