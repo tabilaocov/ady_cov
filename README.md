@@ -16,32 +16,24 @@ Ao Toamasina
 
 Tombana hoan'ny 10 andro teo aloha ao Antananarivo.
 
-<img src="sary/Rt15524610_anta.png" width="600">
+<img src="sary/Rt19526610_anta.png" width="600">
 
 Jeritodika hoan'ny 7 andro teo aloha ao Antananarivo.
 
-<img src="sary/Iv186j_anta.png" width="600">
+<img src="sary/Iv206j_anta.png" width="600">
 
 Tombana hoan'ny 10 andro teo aloha ao Toamasina.
 
-<img src="sary/Rt15524610_toam.png" width="400">
+<img src="sary/Rt19526610_toam.png" width="400">
 
 Jeritodika hoan'ny 7 andro teo aloha ao Toamasina.
 
-<img src="sary/Iv186j_toam.png" width="400">
+<img src="sary/Iv206j_toam.png" width="400">
 
-Vinavina ambany hoan'ny isan'ny voa vaovao ao Antananarivo.
+Vinavina hoan'ny isan'ny voa vaovao ao Antananarivo.
 
-<img src="sary/Ivba246hoav_anta.png" width="400">
+<img src="sary/Iv266hoav_anta.png" width="400">
 
-Vinavina ambony hoan'ny isan'ny voa vaovao ao Antananarivo.
+Vinavina hoan'ny isan'ny voa vaovao ao Toamasina.
 
-<img src="sary/Ivbo246hoav_anta.png" width="400">
-
-Vinavina ambany hoan'ny isan'ny voa vaovao ao Toamasina.
-
-<img src="sary/Ivba246hoav_toam.png" width="400">
-
-Vinavina ambony hoan'ny isan'ny voa vaovao ao Toamasina.
-
-<img src="sary/Ivbo246hoav_toam.png" width="400">
+<img src="sary/Iv2666hoav_toam.png" width="400">
