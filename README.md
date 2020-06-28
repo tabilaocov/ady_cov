@@ -25,16 +25,16 @@ Jeritodika hoan'ny 7 andro teo aloha ao Antananarivo.
 
 Vinavina hoan'ny isan'ny voa vaovao ao Antananarivo.
 
-<img src="sary/Iv286hoav_anta.png" width="400">
+<img src="sary/Iv286hoav_anta.png" width="600">
 
 Tombana hoan'ny 10 andro teo aloha ao Toamasina.
 
-<img src="sary/Rt21528610_toam.png" width="400">
+<img src="sary/Rt21528610_toam.png" width="600">
 
 Jeritodika hoan'ny 7 andro teo aloha ao Toamasina.
 
-<img src="sary/Iv226j_toam.png" width="400">
+<img src="sary/Iv226j_toam.png" width="600">
 
 Vinavina hoan'ny isan'ny voa vaovao ao Toamasina.
 
-<img src="sary/Iv266hoav_toam.png" width="400">
+<img src="sary/Iv266hoav_toam.png" width="600">
