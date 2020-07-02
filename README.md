@@ -25,7 +25,7 @@ Jeritodika hoan'ny 7 andro teo aloha ao Antananarivo.
 
 Vinavina hoan'ny isan'ny voa vaovao ao Antananarivo.
 
-<img src="sary/Iv27hoav_anta.png" width="600">
+<img src="sary/Iv72hoav_anta.png" width="600">
 
 Tombana hoan'ny 10 andro teo aloha ao Toamasina.
 
