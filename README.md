@@ -17,24 +17,24 @@ Ao Toamasina (ny isa hoan'ny 26/06 dia tombana)
 
 Tombana hoan'ny 10 andro teo aloha ao Antananarivo.
 
-<img src="sary/Rt23530610_anta.png" width="600">
+<img src="sary/Rt2552710_anta.png" width="600">
 
 Jeritodika hoan'ny 7 andro teo aloha ao Antananarivo.
 
-<img src="sary/Iv246j_anta.png" width="600">
+<img src="sary/Iv266j_anta.png" width="600">
 
 Vinavina hoan'ny isan'ny voa vaovao ao Antananarivo.
 
-<img src="sary/Iv306hoav_anta.png" width="600">
+<img src="sary/Iv27hoav_anta.png" width="600">
 
 Tombana hoan'ny 10 andro teo aloha ao Toamasina.
 
-<img src="sary/Rt23530610_toam.png" width="600">
+<img src="sary/Rt2552710_toam.png" width="600">
 
 Jeritodika hoan'ny 7 andro teo aloha ao Toamasina.
 
-<img src="sary/Iv246j_toam.png" width="600">
+<img src="sary/Iv266j_toam.png" width="600">
 
 Vinavina hoan'ny isan'ny voa vaovao ao Toamasina.
 
-<img src="sary/Iv286hoav_toam.png" width="600">
+<img src="sary/Iv27hoav_toam.png" width="600">
