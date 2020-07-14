@@ -17,7 +17,7 @@ Ao Toamasina (ny isa hoan'ny 26/06 dia tombana)
 
 Tombana hoan'ny 10 andro teo aloha ao Antananarivo.
 
-<img src="sary/Rt7617710_anta.png" width="600">
+<img src="sary/Rt7614710_anta.png" width="600">
 
 Jeritodika hoan'ny 7 andro teo aloha ao Antananarivo.
 
