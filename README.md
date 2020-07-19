@@ -31,7 +31,7 @@ Tombana hoan'ny 10 andro teo aloha ao Toamasina.
 
 <img src="sary/Rt18710_toam.png" width="600">
 
-Jeritodika hoan'ny  andro teo aloha ao Toamasina. 
+Jeritodika hoan'ny 7 andro teo aloha ao Toamasina. 
 
 <img src="sary/Iv127j_toam.png" width="600"> 
 
