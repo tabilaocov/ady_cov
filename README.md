@@ -37,7 +37,7 @@ Tombana hoan'ny 10 andro teo aloha ao Vakinakaratra.
 
 Jeritodika hoan'ny 7 andro teo aloha ao Vakinakaratra. 
 
-<! <img src="sary/Iv5521j_vaki.png" width="600"> >
+<!-- <img src="sary/Iv5521j_vaki.png" width="600"> -->
 <img src="sary/Iv55217j_vaki.png" width="600"> 
 
 Vinavina hoan'ny isan'ny voa vaovao ao Vakinakaratra. 
@@ -47,7 +47,7 @@ Vinavina hoan'ny isan'ny voa vaovao ao Vakinakaratra.
 
 Ao Diana
 
-<img src="sary/voavaoadiazao.png" width="600">
+<img src="sary/voavaodiazao.png" width="600">
 
 Tombana hoan'ny 10 andro teo aloha ao Diana.
 
@@ -75,12 +75,12 @@ Tombana hoan'ny 10 andro teo aloha ao Boeny.
 
 Jeritodika hoan'ny 7 andro teo aloha ao Boeny. 
 
-<img src="sary/Iv5521j_boe.png" width="600"> 
+<!-- <img src="sary/Iv5521j_boe.png" width="600"> -->
 <img src="sary/Iv55217j_boe.png" width="600"> 
 
 Vinavina hoan'ny isan'ny voa vaovao ao Boeny. 
 
-<img src="sary/Iv11521hoav_boe.png" width="600">
+<!-- <img src="sary/Iv11521hoav_boe.png" width="600"> -->
 <img src="sary/Iv115217hoav_boe.png" width="600">
 
 Ao Aloatra Mangoro
