@@ -7,34 +7,97 @@ Antontanin'isa ao Madagasikara
 
 <img src="sary/voavaozao.png" width="600">
 
-Ao Antananarivo (ny isa hoan'ny 26/06 dia tombana)
+Ao Analamanga
 
-<img src="sary/voavaotanazao.png" width="600">
+<img src="sary/voavaoanalazao.png" width="600">
 
-Ao Toamasina (ny isa hoan'ny 26/06 dia tombana)
+Tombana hoan'ny 10 andro teo aloha ao Analamanga.
 
-<img src="sary/voavaotoazao.png" width="600">
+<img src="sary/Rt1152110_anala.png" width="600">
+<img src="sary/Rt11521107_anala.png" width="600">
 
-Tombana hoan'ny 10 andro teo aloha ao Antananarivo.
+Jeritodika hoan'ny 7 andro teo aloha ao Analamanga.
 
-<img src="sary/Rt1810_anta.png" width="600">
+<img src="sary/Iv5521j_anala.png" width="600">
+<img src="sary/Iv55217j_anala.png" width="600">
 
-Jeritodika hoan'ny 7 andro teo aloha ao Antananarivo.
+Vinavina hoan'ny isan'ny voa vaovao ao Analamanga.
 
-<img src="sary/Iv267j_anta.png" width="600">
+<img src="sary/Iv11521hoav_anala.png" width="600">
+<img src="sary/Iv115217hoav_anala.png" width="600">
 
-Vinavina hoan'ny isan'ny voa vaovao ao Antananarivo.
+Ao Vakinakaratra
 
-<img src="sary/Iv18hoav_anta.png" width="600">
+<img src="sary/voavaokarazao.png" width="600">
 
-Tombana hoan'ny 10 andro teo aloha ao Toamasina. 
+Tombana hoan'ny 10 andro teo aloha ao Vakinakaratra. 
 
-<img src="sary/Rt1810_toam.png" width="600">
+<img src="sary/Rt1152110_vaki.png" width="600">
+<img src="sary/Rt11521107_vaki.png" width="600">
 
-Jeritodika hoan'ny 7 andro teo aloha ao Toamasina. 
+Jeritodika hoan'ny 7 andro teo aloha ao Vakinakaratra. 
 
-<img src="sary/Iv267j_toam.png" width="600"> 
+<img src="sary/Iv5521j_vaki.png" width="600"> 
+<img src="sary/Iv55217j_vaki.png" width="600"> 
 
-Vinavina hoan'ny isan'ny voa vaovao ao Toamasina. 
+Vinavina hoan'ny isan'ny voa vaovao ao Vakinakaratra. 
 
-<img src="sary/Iv18hoav_toam.png" width="600">
+<img src="sary/Iv11521hoav_vaki.png" width="600">
+<img src="sary/Iv11521hoav_vaki.png" width="600">
+
+Ao Diana
+
+<img src="sary/voavaoadiazao.png" width="600">
+
+Tombana hoan'ny 10 andro teo aloha ao Diana.
+
+<img src="sary/Rt1152110_dia.png" width="600">
+<img src="sary/Rt11521107_dia.png" width="600">
+
+Jeritodika hoan'ny 7 andro teo aloha ao Diana.
+
+<img src="sary/Iv5521j_dia.png" width="600">
+<img src="sary/Iv55217j_dia.png" width="600">
+
+Vinavina hoan'ny isan'ny voa vaovao ao Diana.
+
+<img src="sary/Iv11521hoav_dia.png" width="600">
+<img src="sary/Iv115217hoav_dia.png" width="600">
+
+Ao Boeny
+
+<img src="sary/voavaoboezao.png" width="600">
+
+Tombana hoan'ny 10 andro teo aloha ao Boeny. 
+
+<img src="sary/Rt1152110_boe.png" width="600">
+<img src="sary/Rt11521107_boe.png" width="600">
+
+Jeritodika hoan'ny 7 andro teo aloha ao Boeny. 
+
+<img src="sary/Iv5521j_boe.png" width="600"> 
+<img src="sary/Iv55217j_boe.png" width="600"> 
+
+Vinavina hoan'ny isan'ny voa vaovao ao Boeny. 
+
+<img src="sary/Iv11521hoav_boe.png" width="600">
+<img src="sary/Iv11521hoav_boe.png" width="600">
+
+Ao Aloatra Mangoro
+
+<img src="sary/voavaoalaozao.png" width="600">
+
+Tombana hoan'ny 10 andro teo aloha ao Aloatra Mangoro.
+
+<img src="sary/Rt1152110_alao.png" width="600">
+<img src="sary/Rt11521107_alao.png" width="600">
+
+Jeritodika hoan'ny 7 andro teo aloha ao Aloatra Mangoro.
+
+<img src="sary/Iv5521j_alao.png" width="600">
+<img src="sary/Iv55217j_alao.png" width="600">
+
+Vinavina hoan'ny isan'ny voa vaovao ao Aloatra Mangoro.
+
+<img src="sary/Iv11521hoav_alao.png" width="600">
+<img src="sary/Iv115217hoav_alao.png" width="600">
