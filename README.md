@@ -13,7 +13,9 @@ Ao Analamanga
 
 Tombana hoan'ny 10 andro teo aloha ao Analamanga.
 
+Miainga amin'ireo isan'ny voa vaovao isan'andro
 <img src="sary/Rt1152110_anala.png" width="600">
+Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka
 <img src="sary/Rt11521107_anala.png" width="600">
 
 Jeritodika hoan'ny 7 andro teo aloha ao Analamanga.
