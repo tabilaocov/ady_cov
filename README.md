@@ -59,15 +59,16 @@ Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 Jeritodika hoan'ny 7 andro teo aloha ao Vakinakaratra. 
 
 <!-- <img src="sary/Iv5521j_vaki.png" width="600"> -->
+
 Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv55217j_vaki.png" width="600"> 
 
 Vinavina hoan'ny isan'ny voa vaovao ao Vakinakaratra. 
 
-Miainga amin'ireo isan'ny voa vaovao isan'andro:
+<!-- Miainga amin'ireo isan'ny voa vaovao isan'andro: -->
 
-<img src="sary/Iv11521hoav_vaki.png" width="600">
+<!-- <img src="sary/Iv11521hoav_vaki.png" width="600"> -->
 
 Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
