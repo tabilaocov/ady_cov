@@ -169,21 +169,22 @@ A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 
 **B. Jeritodika hoan'ny 7 andro teo aloha ao Matsiatra Ambony.**
 
+<!--
 B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
-
 <img src="sary/Iv9521j_matsia.png" width="600">
-
-B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+-->
+Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv95217j_matsia.png" width="600">
 
 **C. Vinavina hoan'ny isan'ny voa vaovao ao Matsiatra Ambony.**
 
+<!--
 C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
-
 <img src="sary/Iv15521hoav_matsia.png" width="600">
+-->
 
-C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv155217hoav_matsia.png" width="600">
 
