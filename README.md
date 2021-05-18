@@ -8,41 +8,41 @@ Antontanin'isa ao Madagasikara
 
 <img src="sary/voavaozao.png" width="600">
 
-Ao Analamanga
+**Ao Analamanga**
 
 <img src="sary/voavaoanalazao.png" width="600">
 
-Tombana hoan'ny 10 andro teo aloha ao Analamanga.
+**A. Tombana hoan'ny 10 andro teo aloha ao Analamanga.**
 
-Miainga amin'ireo isan'ny voa vaovao isan'andro:
+A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
 <img src="sary/Rt1552110_anala.png" width="600">
 
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Rt15521107_anala.png" width="600">
 
-Jeritodika hoan'ny 7 andro teo aloha ao Analamanga.
+**B. Jeritodika hoan'ny 7 andro teo aloha ao Analamanga.**
 
-Miainga amin'ireo isan'ny voa vaovao isan'andro:
+B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
 <img src="sary/Iv9521j_anala.png" width="600">
 
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv95217j_anala.png" width="600">
 
-Vinavina hoan'ny isan'ny voa vaovao ao Analamanga.
+**C. Vinavina hoan'ny isan'ny voa vaovao ao Analamanga.**
 
-Miainga amin'ireo isan'ny voa vaovao isan'andro:
+C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
 <img src="sary/Iv15521hoav_anala.png" width="600">
 
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv155217hoav_anala.png" width="600">
 
-Ao Vakinakaratra
+**Ao Vakinakaratra**
 
 <img src="sary/voavaokarazao.png" width="600">
 
