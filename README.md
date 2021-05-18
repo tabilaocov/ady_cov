@@ -8,6 +8,11 @@ Antontanin'isa ao Madagasikara
 
 <img src="sary/voavaozao.png" width="600">
 
+Fampitahana taha fitrangana anaty 7 andro mifanarakaraka (7-day incidence proportion)
+
+<img src="sary/thvoa7mdgken.png" width="600">
+
+
 **Ao Analamanga**
 
 <img src="sary/voavaoanalazao.png" width="600">
