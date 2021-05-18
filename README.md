@@ -46,17 +46,17 @@ C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 
 <img src="sary/voavaokarazao.png" width="600">
 
-Tombana hoan'ny 10 andro teo aloha ao Vakinakaratra. 
+**A. Tombana hoan'ny 10 andro teo aloha ao Vakinakaratra.** 
 
-Miainga amin'ireo isan'ny voa vaovao isan'andro:
+A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
 <img src="sary/Rt1552110_vaki.png" width="600">
 
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Rt15521107_vaki.png" width="600">
 
-Jeritodika hoan'ny 7 andro teo aloha ao Vakinakaratra. 
+**B. Jeritodika hoan'ny 7 andro teo aloha ao Vakinakaratra.** 
 
 <!-- <img src="sary/Iv5521j_vaki.png" width="600"> -->
 
@@ -64,7 +64,7 @@ Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv95217j_vaki.png" width="600"> 
 
-Vinavina hoan'ny isan'ny voa vaovao ao Vakinakaratra. 
+**C. Vinavina hoan'ny isan'ny voa vaovao ao Vakinakaratra.** 
 
 <!-- Miainga amin'ireo isan'ny voa vaovao isan'andro: -->
 
@@ -113,36 +113,73 @@ Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 <img src="sary/Iv115217hoav_boe.png" width="600"> 
 -->
 
-Ao Aloatra Mangoro
+**Ao Aloatra Mangoro**
 
 <img src="sary/voavaoalaozao.png" width="600">
 
-Tombana hoan'ny 10 andro teo aloha ao Aloatra Mangoro.
+**A. Tombana hoan'ny 10 andro teo aloha ao Aloatra Mangoro.**
 
-Miainga amin'ireo isan'ny voa vaovao isan'andro:
+A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
 <img src="sary/Rt1552110_alao.png" width="600">
 
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Rt15521107_alao.png" width="600">
 
-Jeritodika hoan'ny 7 andro teo aloha ao Aloatra Mangoro.
+**B. Jeritodika hoan'ny 7 andro teo aloha ao Aloatra Mangoro.**
 
-Miainga amin'ireo isan'ny voa vaovao isan'andro:
+B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
 <img src="sary/Iv9521j_alao.png" width="600">
 
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv95217j_alao.png" width="600">
 
-Vinavina hoan'ny isan'ny voa vaovao ao Aloatra Mangoro.
+**C. Vinavina hoan'ny isan'ny voa vaovao ao Aloatra Mangoro.**
 
-Miainga amin'ireo isan'ny voa vaovao isan'andro:
+C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
 <img src="sary/Iv15521hoav_alao.png" width="600">
 
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv155217hoav_alao.png" width="600">
+
+
+**Ao Matsiatra Ambony**
+
+<img src="sary/voavaotsiatrzao.png" width="600">
+
+**A. Tombana hoan'ny 10 andro teo aloha ao Matsiatra Ambony.**
+
+A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
+
+<img src="sary/Rt1552110_matsia.png" width="600">
+
+A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+
+<img src="sary/Rt15521107_matsia.png" width="600">
+
+**B. Jeritodika hoan'ny 7 andro teo aloha ao Matsiatra Ambony.**
+
+B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
+
+<img src="sary/Iv9521j_matsia.png" width="600">
+
+B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+
+<img src="sary/Iv95217j_matsia.png" width="600">
+
+**C. Vinavina hoan'ny isan'ny voa vaovao ao Matsiatra Ambony.**
+
+C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
+
+<img src="sary/Iv15521hoav_matsia.png" width="600">
+
+C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+
+<img src="sary/Iv155217hoav_matsia.png" width="600">
+
+
