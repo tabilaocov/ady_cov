@@ -24,7 +24,7 @@ Fampitahana ny isan'ireo mbola voa izao
 
 <img src="sary/mbolvoazaomdgken.png" width="600">
 
-Fampitahana ny iTahan'ireo manana fahasarotana izao oharina amin'ireo mbola voa izao
+Fampitahana ny tahan'ireo manana fahasarotana izao oharina amin'ireo mbola voa izao
 
 <img src="sary/thsarzaomdgken.png" width="600">
 
