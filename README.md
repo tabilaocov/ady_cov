@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 # Tabilao ankapobeny sy modely ijerena ny fivoaran'ny Covid-19 ao Madagasikara (26/05/2021)
 
 ### Fanadihadiana an-tsary hoan'Analamanga, Alaotra Mangoro, Anosy Atsimo Andrefana. 
