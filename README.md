@@ -195,10 +195,9 @@ B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 <img src="sary/Iv29521hoav_atsim.png" width="600">
 
-
 C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv295217hoav_atsima.png" width="600">
+<img src="sary/Iv295217hoav_atsim.png" width="600">
 
 **Ao Matsiatra Ambony**
 
