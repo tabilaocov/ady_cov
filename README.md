@@ -2,6 +2,9 @@
 
 ### Fanadihadiana an-tsary hoan'Analamanga, Alaotra Mangoro, Anosy Atsimo Andrefana. 
 
+
+[Link to another page](./tahiry.html).
+
 Antontanin'isa ao Madagasikara
 
 <img src="sary/tahasitrzao.png" width="600">
