@@ -1,6 +1,6 @@
 ## Naoty fanadihadina teo aloha
 
-Aprily 2020: [Tombana momba ny taha-pifindran'ny Covid-19 ao Madagasikara.pdf](naoty/cov_mdg.pdf) Mampiasa modely SIR mba hanombana ny taha-pifindrana λ (estimation) avy ireo antontan'isa hanana momba an'i Madagasikara sy haminavinana ny mety ho fivoaran'ny aretina (forecasting) raha mampihatra fepetra vinavina 7 karazany, aloha na aoriana na amin'ny fotoan'ny 15 aprily.
+Aprily 2020: [Tombana momba ny taha-pifindran'ny Covid-19 ao Madagasikara.pdf](naoty/cov mdg.pdf) Mampiasa modely SIR mba hanombana ny taha-pifindrana λ (estimation) avy ireo antontan'isa hanana momba an'i Madagasikara sy haminavinana ny mety ho fivoaran'ny aretina (forecasting) raha mampihatra fepetra vinavina 7 karazany, aloha na aoriana na amin'ny fotoan'ny 15 aprily.
 
 12/5/2020: [Tahan'ireo voatily tsy voa anaty fitiliana](naoty/Taha_fitiliana.pdf) Mandrefy ny fivoaran'ny tahan'ireo voatily tsy voa (rate of negative results, antsoina eto hoe Taha-tsv) hoan'i Madagasikara. Hita fa manaraka ny zava-misy ny fiovan'io taha io kanefa hita ho ambany ny ao Madagasikara oharina amin'ny ao Kenya. Voafetra ho 3 hatramin'ny 36 eo ny salan'isan'ny voa hovoatily arakarak'io taha io raha toa ka 300 ny fetran'ny voka-pitiliana azo omena isan'andro.
 
