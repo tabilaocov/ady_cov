@@ -1,5 +1,20 @@
-## Naoty fanadihadina teo aloha
+## Naoty fanadihadina 
 
+# Fanombanana hoan'ny isa fitomboana, fanaikekezana sy vinavina hoan'ny isan'ny voa vaovao:
+
+[30/05/21.pdf](naoty/R 30 9 21.pdf) Analamanga, Vakinakaratra, Matsiatra Ambony, Atsimo Andrefana, Menabe.
+
+[26/05/21.pdf](naoty/R 26 5 21.pdf) Analamanga, Alaotra Mangoro, Anosy Atsimo Andrefana.
+
+[22/05/21.pdf](naoty/R 22 5 21.pdf) Analamanga, Matsiatra ambony, Alaotra Mangoro, Vatovavy Fitovinany.
+
+[17/05/21.pdf](naoty/R 17 5 21.pdf) Analamanga, Matsiatra ambony, Alaotra Mangoro, Vakinakaratra, Vatovavy Fitovinany, Bongolava.
+
+[15/05/21.pdf](naoty/R 15 5 21.pdf) Analamanga, Matsiatra ambony, Alaotra Mangoro, Vakinakaratra.
+
+[11/05/21.pdf](naoty/R 10 5 21.pdf) Analamanga, Diana, Alaotra Mangoro, Boeny, Vakinakaratra.
+
+<!--
 Aprily 2020: [Modely SEIR.pdf](naoty/Modely seir.pdf) Ny modely SEIR dia fanavaozana ny modely SIR.
 
 Aprily 2020: [Tombana momba ny taha-pifindran'ny Covid-19 ao Madagasikara.pdf](naoty/cov%20mdg.pdf) Mampiasa modely SIR mba hanombana ny taha-pifindrana λ (estimation) avy ireo antontan'isa hanana momba an'i Madagasikara sy haminavinana ny mety ho fivoaran'ny aretina (forecasting) raha mampihatra fepetra vinavina 7 karazany, aloha na aoriana na amin'ny fotoan'ny 15 aprily.
@@ -15,5 +30,7 @@ Aprily 2020: [Tombana momba ny taha-pifindran'ny Covid-19 ao Madagasikara.pdf](n
 
 16/07/2020: [Fampitahana tombana hoan'ny isa fitomboana (reproduction number).pdf)](Fampitaha R.pdf) Mampitaha ny [modely iray](https://mrc-ide.github.io/covid19-short-term-forecasts/index.html) ampiasan'ny Imperial College COVID-19 Response Team (antsoina eto hoe modely IC) sy ny modely ampiasana [eto](naoty/Famantarana.pdf) (antsoina hoe modely RP). Ireo modely IC sy RP dia manome isa fitomboana R, antsoina eto hoe R(IC) sy R(RP), hoan'i Madagasikara sy firenena
 afrikana telo. Ireo isa R(IC) sy R(RP) ireo no ampitahana.
+
+-->
 
 [hiverina](./) 
