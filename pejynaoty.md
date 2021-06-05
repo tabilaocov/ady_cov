@@ -1,11 +1,11 @@
 ## Naoty fanadihadina 
 
-### [Teoria](
+### [Teoria](./teoria.md)
 
-### [Tily](
+### [Tily](./tily.md)
 
-### [Fanombanana, jeritodika ary vinavina](
+### [Fanombanana, jeritodika ary vinavina](./fajevi.md)
 
-### [Vaksiny](
+### [Vaksiny](./vaks.md)
 
 [hiverina](./) 
