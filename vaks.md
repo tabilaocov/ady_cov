@@ -4,6 +4,6 @@
 
 [Vaksiny Risika.pdf](/naoty/vaks/Vaksiny_risika.pdf)
 
-[hiverina pejy naoty](/pejynaoty.md)
+[Hiverina pejy naoty](/pejynaoty.md)
 
-[hiverina pejy fandraisana](./) 
+[Hiverina pejy fandraisana](./) 
