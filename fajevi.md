@@ -2,6 +2,8 @@
 
 ### Fanombanana hoan'ny isa fitomboana, fanaikekezana sy vinavina hoan'ny isan'ny voa vaovao:
 
+[1/06/21.pdf](naoty/tombjerivina/R 1 6 21.pdf) Analamanga, Vakinakaratra, Matsiatra Ambony, Atsimo Atsinanana.
+
 [30/05/21.pdf](naoty/tombjerivina/R 30 5 21.pdf) Analamanga, Vakinakaratra, Matsiatra Ambony, Atsimo Andrefana, Menabe.
 
 [26/05/21.pdf](naoty/tombjerivina/R 26 5 21.pdf) Analamanga, Alaotra Mangoro, Anosy Atsimo Andrefana.
@@ -12,7 +14,7 @@
 
 [15/05/21.pdf](naoty/tombjerivina/R 15 5 21.pdf) Analamanga, Matsiatra ambony, Alaotra Mangoro, Vakinakaratra.
 
-[11/05/21.pdf](naoty/tombjerivina/R 10 5 21.pdf) Analamanga, Diana, Alaotra Mangoro, Boeny, Vakinakaratra.
+[11/05/20.pdf](naoty/tombjerivina/R 11 5 21.pdf) Analamanga, Diana, Alaotra Mangoro, Boeny sy Vakinakaratra.
 
 <!--
 
@@ -26,12 +28,11 @@
 
 
 
-[1/06/21.pdf](naoty/tombjerivina/R 1 6 21.pdf) Analamanga, Vakinakaratra, Matsiatra Ambony, Atsimo Atsinanana.
 
 [1/08/20.pdf](naoty/tombjerivina/R 1 8.pdf) Antananarivo sy Toamasina.
 
 
-[11/05/20.pdf](naoty/tombjerivina/R 11 5 21.pdf) Analamanga, Diana, Alaotra Mangoro, Boeny sy Vakinakaratra.
+
 
 (naoty/tombjerivina/R 10 7.pdf)  Antananarivo sy Toamasina.
 
@@ -67,9 +68,6 @@ Add files via upload
 2 hours ago
 (naoty/tombjerivina/R 14 8.pdf)  Antananarivo sy Toamasina.
 
-Add files via upload
-2 hours ago
-(naoty/tombjerivina/R 15 5 21.pdf)  Antananarivo sy Toamasina.
 
 Add files via upload
 2 hours ago
@@ -87,9 +85,6 @@ Add files via upload
 2 hours ago
 (naoty/tombjerivina/R 16 8.pdf)  Antananarivo sy Toamasina.
 
-Add files via upload
-2 hours ago
-(naoty/tombjerivina/R 17 5 21.pdf)  Antananarivo sy Toamasina.
 
 Add files via upload
 2 hours ago
@@ -139,9 +134,6 @@ Add files via upload
 2 hours ago
 (naoty/tombjerivina/R 22 8.pdf)  Antananarivo sy Toamasina.
 
-Add files via upload
-2 hours ago
-(naoty/tombjerivina/R 22 9 21.pdf)  Antananarivo sy Toamasina.
 
 Add files via upload
 2 hours ago
@@ -158,10 +150,6 @@ Add files via upload
 Add files via upload
 2 hours ago
 (naoty/tombjerivina/R 25 9.pdf)  Antananarivo sy Toamasina.
-
-Add files via upload
-2 hours ago
-(naoty/tombjerivina/R 26 5 21.pdf)  Antananarivo sy Toamasina.
 
 Add files via upload
 2 hours ago
