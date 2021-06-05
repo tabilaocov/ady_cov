@@ -1,11 +1,11 @@
-## Naoty fanadihadina 
+## Naoty fanadihadina momba: 
 
-### [Teoria](./teoria.md)
+### [Ireo teoria sy modely](./teoria.md)
 
-### [Tily](./tily.md)
+### [Ireo fitiliana sy taha](./tily.md)
 
 ### [Fanombanana, jeritodika ary vinavina](./fajevi.md)
 
-### [Vaksiny](./vaks.md)
+### [Momba ireo vaksiny](./vaks.md)
 
 [hiverina](./) 
