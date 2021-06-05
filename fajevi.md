@@ -113,7 +113,7 @@
 
 [4/07/20.pdf](naoty/tombjerivina/R 4 7.pdf) Antananarivo sy Toamasina.
 
-[2/07/20.pdf] (naoty/tombjerivina/R 2 7.pdf)  Antananarivo sy Toamasina.
+[2/07/20.pdf](naoty/tombjerivina/R 2 7.pdf)  Antananarivo sy Toamasina.
 
 
 **Jiona 2020**
