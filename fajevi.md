@@ -171,15 +171,11 @@ Add files via upload
 2 hours ago
 (naoty/tombjerivina/R 28 7.pdf)  Antananarivo sy Toamasina.
 
-Add files via upload
-2 hours ago
 (naoty/tombjerivina/R 28 8.pdf)  Antananarivo sy Toamasina.
 
-Add files via upload
-2 hours ago
 (naoty/tombjerivina/R 29 9.pdf
-Add files via upload
-2 hours ago
+
+
 [3/10/20.pdf](naoty/tombjerivina/R 3 10.pdf) Analamanga, Diana, Sava, Matsiatra Ambony, Alaotra Mangoro.
 
 
@@ -197,11 +193,9 @@ Add files via upload
 Add files via upload
 2 hours ago
 (naoty/tombjerivina/R 31 8.pdf
-Add files via upload
-2 hours ago
+
 [4/07/20.pdf](naoty/tombjerivina/R 4 7.pdf) Antananarivo sy Toamasina.
-Add files via upload
-2 hours ago
+
 [6/07/20.pdf](naoty/tombjerivina/R 6 7.pdf) Antananarivo sy Toamasina.
 
 [6/09/20.pdf](naoty/tombjerivina/R 6 9.pdf) Analamanga, Diana, Sofia, Matsiatra Ambony, Alaotra Mangoro sy Faritra Atsinanana.
@@ -214,9 +208,6 @@ Add files via upload
 
 [9/09/20.pdf](naoty/tombjerivina/R 9 9.pdf) Analamanga, Diana, Menabe, Sofia, Sava, Matsiatra Ambony, Alaotra Mangoro sy Faritra Atsinanana.
 
-
-Add files via upload
-2 hours ago
 (naoty/tombjerivina/R Antana Toama.pdf
 Add files via upload
 2 hours ago
