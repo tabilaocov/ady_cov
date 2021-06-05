@@ -1,4 +1,4 @@
-[Naoty fanadihadina tany aloha](./tahiry.md).
+[Naoty fanadihadina tany aloha](./pejynaoty.md).
 
 # Tabilao ankapobeny sy modely ijerena ny fivoaran'ny Covid-19 ao Madagasikara (1/06/2021)
 
