@@ -9,10 +9,6 @@ Antontanin'isa ao Madagasikara
 
 <img src="sary/voavaozao.png" width="600">
 
-Fampitahana tahan'ny sitrana hatrizay oharina amin'ny isan'ny voa hatrizay
-
-<img src="sary/tahasitrzaomdgkensaf.png" width="600">
-
 Fampitahana taha fitrangana anaty 7 andro mifanarakaraka (7-day incidence proportion)
 
 <img src="sary/thvoa7mdgken.png" width="600">
@@ -24,6 +20,10 @@ Fampitahana tahan'ny nodimandry hatrizay oharina amin'ny isan'ny voa hatrizay
 Fampitahana ny isan'ireo fahasarotana izao
 
 <img src="sary/fahasarzaomdgken.png" width="600">
+
+Fampitahana tahan'ny sitrana hatrizay oharina amin'ny isan'ny voa hatrizay
+
+<img src="sary/tahasitrzaomdgkensaf.png" width="600">
 
 
 <!--
