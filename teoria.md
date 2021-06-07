@@ -1,27 +1,23 @@
 ## Momba ireo teoria sy modely
 
-### Fanombanana hoan'ny isa fitomboana, fanaikekezana sy vinavina hoan'ny isan'ny voa vaovao:
 
-[30/05/21.pdf](naoty/R 30 9 21.pdf) Analamanga, Vakinakaratra, Matsiatra Ambony, Atsimo Andrefana, Menabe.
 
-[26/05/21.pdf](naoty/R 26 5 21.pdf) Analamanga, Alaotra Mangoro, Anosy Atsimo Andrefana.
+9/06/2020: [Tombana hoan'ny isa fitomboana (reproduction number) ao Madagasikara.pdf](naoty/teoria/RP/Famantarana.pdf) Mamantatra ny fivoaran'ny aretina amin'ny alalan'ny fanombanana ny isa fitomboana. Modely statistika mampitovy ny fifindran'ny aretina miainga amin'ny olona iray amin'ny tranga kisendrasendra antsoina hoe renewal process no ampiasana; ny fanombanana araky ny modely faharoa ao amin'[ity fanadihadihana ity](https://mrc-ide.github.io/covid19-short-term-forecasts/index.html) no arahina eto.
 
-[22/05/21.pdf](naoty/R 22 5 21.pdf) Analamanga, Matsiatra ambony, Alaotra Mangoro, Vatovavy Fitovinany.
+[27/09/21.pdf](naoty/teoria/RP/RP model.pdf) Dikateny anglisy ny lahatsoratra eo ambony.
 
-[17/05/21.pdf](naoty/R 17 5 21.pdf) Analamanga, Matsiatra ambony, Alaotra Mangoro, Vakinakaratra, Vatovavy Fitovinany, Bongolava.
-
-[15/05/21.pdf](naoty/R 15 5 21.pdf) Analamanga, Matsiatra ambony, Alaotra Mangoro, Vakinakaratra.
-
-[11/05/21.pdf](naoty/R 10 5 21.pdf) Analamanga, Diana, Alaotra Mangoro, Boeny, Vakinakaratra.
-
-<!--
-Aprily 2020: [Modely SEIR.pdf](naoty/Modely seir.pdf) Ny modely SEIR dia fanavaozana ny modely SIR.
+Aprily 2020: [Modely SEIR.pdf](naoty/teoria/seirsir/Modely seir.pdf) Ny modely SEIR dia fanavaozana ny modely SIR.
 
 Aprily 2020: [Tombana momba ny taha-pifindran'ny Covid-19 ao Madagasikara.pdf](naoty/cov%20mdg.pdf) Mampiasa modely SIR mba hanombana ny taha-pifindrana λ (estimation) avy ireo antontan'isa hanana momba an'i Madagasikara sy haminavinana ny mety ho fivoaran'ny aretina (forecasting) raha mampihatra fepetra vinavina 7 karazany, aloha na aoriana na amin'ny fotoan'ny 15 aprily.
 
+<!--
+
+
+
+
 12/5/2020: [Tahan'ireo voatily tsy voa anaty fitiliana](naoty/Taha fitiliana.pdf) Mandrefy ny fivoaran'ny tahan'ireo voatily tsy voa (rate of negative results, antsoina eto hoe Taha-tsv) hoan'i Madagasikara. Hita fa manaraka ny zava-misy ny fiovan'io taha io kanefa hita ho ambany ny ao Madagasikara oharina amin'ny ao Kenya. Voafetra ho 3 hatramin'ny 36 eo ny salan'isan'ny voa hovoatily arakarak'io taha io raha toa ka 300 ny fetran'ny voka-pitiliana azo omena isan'andro.
 
-9/06/2020: [Tombana hoan'ny isa fitomboana (reproduction number) ao Madagasikara.pdf](naoty/Famantarana.pdf) Mamantatra ny fivoaran'ny aretina amin'ny alalan'ny fanombanana ny isa fitomboana. Modely statistika mampitovy ny fifindran'ny aretina miainga amin'ny olona iray amin'ny tranga kisendrasendra antsoina hoe renewal process no ampiasana; ny fanombanana araky ny modely faharoa ao amin'[ity fanadihadihana ity](https://mrc-ide.github.io/covid19-short-term-forecasts/index.html) no arahina eto.
+
 
 
 12/06/2020: [Isan'ireo olona ilaina hotiliana: naoty fameno.pdf](naoty/Taha.pdf) Mamaritra ny isan'ireo olona ilaina hotiliana amin'ny faritra vitsivitsy mba ahazoana manombana ny tahan'ireo olona voa (Tvoa-toer) ao. Ny fomba fikajiana natao hoan'i Soavimasoandro no arahina ary omena fanazavana famenony.
