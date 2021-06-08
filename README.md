@@ -70,10 +70,6 @@ C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 
 <img src="sary/Iv56217hoav_anala.png" width="600">
 
-**Ao Vakinakaratra**
-
-<img src="sary/voavaokarazao.png" width="600">
-
 
 <!-- 
 Ao Diana
@@ -183,6 +179,9 @@ C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 <img src="sary/Iv56217hoav_matsia.png" width="600">
 
 <!--
+**Ao Vakinakaratra**
+
+<img src="sary/voavaokarazao.png" width="600">
 
 **A. Tombana hoan'ny 10 andro teo aloha ao Vakinakaratra.** 
 
