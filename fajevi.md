@@ -4,6 +4,8 @@
 
 **Jiona 2021**
 
+[12/06/21.pdf](naoty/tombjerivina/R 12 6 21.pdf) Analamanga, Faritra Atsinanana, Atsimo Andrefana ary Matsiatra Ambony.
+
 [7/06/21.pdf](naoty/tombjerivina/R 7 6 21.pdf) Analamanga sy Faritra Atsinanana.
 
 [5/06/21.pdf](naoty/tombjerivina/R 5 6 21.pdf) Analamanga, Matsiatra Ambony, Faritra Atsinanana.
