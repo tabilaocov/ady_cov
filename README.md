@@ -21,9 +21,9 @@ Fampitahana ny isan'ireo fahasarotana izao
 
 <img src="sary/fahasarzaomdgken.png" width="600">
 
-Fampitahana ny tahan'ny tahan'ny sitrana hatrizay oharina amin'ny isan'ny voa hatrizay ao
+Fampitahana ny tahan'ny tahan'ny sitrana hatrizay oharina amin'ny isan'ny voa hatrizay ao Madagasikara araky ny Ministeran'ny Fahasalamam-bahoaka sy ny Worldometer
 
-<img src="sary/tahasitrzamsanpw.png" width="600">
+<img src="sary/tahasitrzaomsanpw.png" width="600">
 
 Fampitahana tahan'ny sitrana hatrizay oharina amin'ny isan'ny voa hatrizay
 
