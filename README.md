@@ -2,7 +2,7 @@
 
 # Tabilao ankapobeny sy modely ijerena ny fivoaran'ny Covid-19 ao Madagasikara (19/06/2021)
 
-### Fanadihadiana an-tsary hoan'Analamanga, Atsimo Andrefana sy Matsiatra Ambony. 
+### Fanadihadiana an-tsary hoan'Analamanga sy Faritra Atsinanana. 
 
 
 Antontanin'isa ao Madagasikara
