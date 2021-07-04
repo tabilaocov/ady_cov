@@ -41,31 +41,31 @@ Fampitahana ny isan'ireo mbola voa izao araky ny Ministeran'ny Fahasalamam-bahoa
 
 A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Rt2662110_anala.png" width="600">
+<img src="sary/Rt372110_anala.png" width="600">
 
 A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Rt26621107_anala.png" width="600">
+<img src="sary/Rt3721107_anala.png" width="600">
 
 **B. Jeritodika hoan'ny 7 andro teo aloha ao Analamanga.**
 
 B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Iv20621j_anala.png" width="600">
+<img src="sary/Iv27621j_anala.png" width="600">
 
 B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv206217j_anala.png" width="600">
+<img src="sary/Iv276217j_anala.png" width="600">
 
 **C. Vinavina hoan'ny isan'ny voa vaovao ao Analamanga.**
 
 C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Iv26621hoav_anala.png" width="600">
+<img src="sary/Iv3721hoav_anala.png" width="600">
 
 C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv266217hoav_anala.png" width="600">
+<img src="sary/Iv37217hoav_anala.png" width="600">
 
 **Ao Matsiatra Ambony**
 
@@ -75,31 +75,52 @@ C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 
 A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Rt2662110_matsia.png" width="600">
+<img src="sary/Rt372110_matsia.png" width="600">
 
 A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Rt26621107_matsia.png" width="600">
+<img src="sary/Rt3721107_matsia.png" width="600">
 
 **B. Jeritodika hoan'ny 7 andro teo aloha ao Matsiatra Ambony.**
 
 B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Iv20621j_matsia.png" width="600">
+<img src="sary/Iv27621j_matsia.png" width="600">
 
 B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv206217j_matsia.png" width="600">
+<img src="sary/Iv276217j_matsia.png" width="600">
 
 **C. Vinavina hoan'ny isan'ny voa vaovao ao Matsiatra Ambony.**
 
 C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Iv26621hoav_matsia.png" width="600">
+<img src="sary/Iv3721hoav_matsia.png" width="600">
 
 C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv266217hoav_matsia.png" width="600">
+<img src="sary/Iv37217hoav_matsia.png" width="600">
+
+**Ao Vatovavy Fitovinany**
+
+<img src="sary/voavaovavyzao.png" width="600">
+
+**A. Tombana hoan'ny 10 andro teo aloha ao Vatovavy Fitovinany.**
+
+Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+
+<img src="sary/Rt3721107_vavy.png" width="600">
+
+**B. Jeritodika hoan'ny 7 andro teo aloha ao Vatovavy Fitovinany.**
+
+Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+
+<img src="sary/Iv276217j_vavy.png" width="600">
+
+**C. Vinavina hoan'ny isan'ny voa vaovao ao Vatovavy Fitovinany.**
+
+Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
+<img src="sary/Iv37217hoav_matsia.png" width="600">
 
 <!-- 
 Ao Diana
@@ -241,36 +262,6 @@ Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 <img src="sary/Iv16217hoav_vaki.png" width="600">
 
-
-**Ao Vatovavy Fitovinany**
-
-<img src="sary/voavaovavyzao.png" width="600">
-
-**A. Tombana hoan'ny 10 andro teo aloha ao Vatovavy Fitovinany.**
-
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
-
-<img src="sary/Rt17521107_vavy.png" width="600">
-
-**B. Jeritodika hoan'ny 7 andro teo aloha ao Vatovavy Fitovinany.**
-
-<!--
-B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
-<img src="sary/Iv9521j_matsia.png" width="600">
-
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
-
-<img src="sary/Iv115217j_vavy.png" width="600">
-
-**C. Vinavina hoan'ny isan'ny voa vaovao ao Vatovavy Fitovinany.**
-
-C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
-<img src="sary/Iv15521hoav_matsia.png" width="600">
-
-
-Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
-
-<img src="sary/Iv175217hoav_vavy.png" width="600">
 
 **Ao Bongolava**
 
