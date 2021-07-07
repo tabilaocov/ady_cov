@@ -1,8 +1,8 @@
 [Naoty fanadihadina hafa](./pejynaoty.md).
 
-# Tabilao ankapobeny sy modely ijerena ny fivoaran'ny Covid-19 ao Madagasikara (26/06/2021)
+# Tabilao ankapobeny sy modely ijerena ny fivoaran'ny Covid-19 ao Madagasikara (3/07/2021)
 
-### Fanadihadiana an-tsary hoan'Analamanga sy Matsiatra Ambony. 
+### Fanadihadiana an-tsary hoan'Analamanga, Matsiatra Ambony sy Vatovavy Fitovinany. 
 
 
 Antontanin'isa ao Madagasikara
