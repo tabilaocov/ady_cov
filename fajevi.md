@@ -4,7 +4,9 @@
 
 **Jolay 2021**
 
-[3/07/21.pdf](naoty/tombjerivina/R 3 7 21.pdf) Analamanga sy Matsiatra Ambony.
+[10/07/21.pdf](naoty/tombjerivina/R 10 7 21.pdf) Analamanga sy Matsiatra Ambony ary Vakinakaratra.
+
+[3/07/21.pdf](naoty/tombjerivina/R 3 7 21.pdf) Analamanga sy Matsiatra Ambony ary Vatovavy Fitovinany.
 
 **Jiona 2021**
 
