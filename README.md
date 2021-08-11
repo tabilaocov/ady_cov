@@ -133,7 +133,7 @@ Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv187217hoav_vaki.png" width="600">
+<img src="sary/Iv247217hoav_vaki.png" width="600">
 
 <!-- 
 Ao Diana
