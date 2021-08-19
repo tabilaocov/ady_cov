@@ -41,31 +41,31 @@ Fampitahana ny isan'ireo mbola voa izao araky ny Ministeran'ny Fahasalamam-bahoa
 
 A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Rt2472110_anala.png" width="600">
+<img src="sary/Rt3172110_anala.png" width="600">
 
 A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Rt24721107_anala.png" width="600">
+<img src="sary/Rt31721107_anala.png" width="600">
 
 **B. Jeritodika hoan'ny 7 andro teo aloha ao Analamanga.**
 
 B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Iv18721j_anala.png" width="600">
+<img src="sary/Iv25721j_anala.png" width="600">
 
 B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv187217j_anala.png" width="600">
+<img src="sary/Iv257217j_anala.png" width="600">
 
 **C. Vinavina hoan'ny isan'ny voa vaovao ao Analamanga.**
 
 C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Iv24721hoav_anala.png" width="600">
+<img src="sary/Iv31721hoav_anala.png" width="600">
 
 C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv247217hoav_anala.png" width="600">
+<img src="sary/Iv317217hoav_anala.png" width="600">
 
 **Ao Matsiatra Ambony**
 
@@ -75,31 +75,31 @@ C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 
 A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Rt2472110_matsia.png" width="600">
+<img src="sary/Rt3172110_matsia.png" width="600">
 
 A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Rt24721107_matsia.png" width="600">
+<img src="sary/Rt31721107_matsia.png" width="600">
 
 **B. Jeritodika hoan'ny 7 andro teo aloha ao Matsiatra Ambony.**
 
 B.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Iv18721j_matsia.png" width="600">
+<img src="sary/Iv25721j_matsia.png" width="600">
 
 B.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv187217j_matsia.png" width="600">
+<img src="sary/Iv257217j_matsia.png" width="600">
 
 **C. Vinavina hoan'ny isan'ny voa vaovao ao Matsiatra Ambony.**
 
 C.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Iv24721hoav_matsia.png" width="600">
+<img src="sary/Iv31721hoav_matsia.png" width="600">
 
 C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv247217hoav_matsia.png" width="600">
+<img src="sary/Iv317217hoav_matsia.png" width="600">
 
 **Ao Vakinakaratra**
 
@@ -109,11 +109,11 @@ C.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 
 A.1. Miainga amin'ireo isan'ny voa vaovao isan'andro:
 
-<img src="sary/Rt2472110_vaki.png" width="600">
+<img src="sary/Rt3172110_vaki.png" width="600">
 
 A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Rt24721107_vaki.png" width="600">
+<img src="sary/Rt31721107_vaki.png" width="600">
 
 **B. Jeritodika hoan'ny 7 andro teo aloha ao Vakinakaratra.** 
 
@@ -123,7 +123,7 @@ A.2. Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakar
 
 Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv187217j_vaki.png" width="600"> 
+<img src="sary/Iv257217j_vaki.png" width="600"> 
 
 **C. Vinavina hoan'ny isan'ny voa vaovao ao Vakinakaratra.** 
 
@@ -133,7 +133,7 @@ Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
 Miainga amin'ireo salan'isan'ny voa vaovao mandritra ny 7 andro mifanarakaraka:
 
-<img src="sary/Iv247217hoav_vaki.png" width="600">
+<img src="sary/Iv317217hoav_vaki.png" width="600">
 
 <!-- 
 Ao Diana
